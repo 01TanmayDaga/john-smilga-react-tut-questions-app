@@ -4,7 +4,7 @@ import Question from "./Question";
 
 function Questions() {
   return (
-    <section className="w-8/12 h-fit my-32 bg-white flex flex-col align-middle justify-center pt-8">
+    <section className="w-8/12 md:w-10/12 h-fit my-32 bg-white flex flex-col align-middle justify-center pt-8">
       <h1 className="text-center text-5xl text-gray-700 m-4">Questions</h1>
       <div
         className="grid gap-8 h-fit  px-8 py-2 m-2 last:mb-20"
